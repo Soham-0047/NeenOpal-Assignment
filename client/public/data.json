@@ -1,0 +1,73 @@
+[
+    {
+      "image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "phone": "1-555-555-5555",
+      "website": "http://johndoe.com"
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/portrait-white-man-isolated_53876-40306.jpg",
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "phone": "1-555-555-5556",
+      "website": "http://janesmith.com"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
+      "name": "Alex Johnson",
+      "email": "alex.johnson@example.com",
+      "phone": "1-555-555-5557",
+      "website": "http://alexjohnson.com"
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/confident-ahttps://img.freepik.com/free-photo/smiling-young-brunette-caucasian-man-isolated-pink-wall-with-copy-space_141793-116910.jpg",
+      "name": "Emily Brown",
+      "email": "emily.brown@example.com",
+      "phone": "1-555-555-5558",
+      "website": "http://emilybrown.com"
+    },
+    {
+      "image": "https://img.freepik.com/free-photo/close-up-portrait-handsome-confident-young-man-white-t-shirt-looking-away-blurry-outdoor-nature_176420-6306.jpg",
+      "name": "Michael Davis",
+      "email": "michael.davis@example.com",
+      "phone": "1-555-555-5559",
+      "website": "http://michaeldavis.com"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1628157588553-5eeea00af15c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGF2YXRhcnxlbnwwfHwwfHx8MA%3D%3D",
+      "name": "Sophia Taylor",
+      "email": "sophia.taylor@example.com",
+      "phone": "1-555-555-5560",
+      "website": "http://sophiataylor.com"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1566492031773-4f4e44671857?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGF2YXRhcnxlbnwwfHwwfHx8MA%3D%3D",
+      "name": "William Anderson",
+      "email": "william.anderson@example.com",
+      "phone": "1-555-555-5561",
+      "website": "http://williamanderson.com"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1543610892-0b1f7e6d8ac1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjJ8fGF2YXRhcnxlbnwwfHwwfHx8MA%3D%3D",
+      "name": "Olivia Martinez",
+      "email": "olivia.martinez@example.com",
+      "phone": "1-555-555-5562",
+      "website": "http://oliviamartinez.com"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1639149888905-fb39731f2e6c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fGF2YXRhcnxlbnwwfHwwfHx8MA%3D%3D0",
+      "name": "Daniel Wilson",
+      "email": "daniel.wilson@example.com",
+      "phone": "1-555-555-5563",
+      "website": "http://danielwilson.com"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1634926878768-2a5b3c42f139?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGF2YXRhcnxlbnwwfHwwfHx8MA%3D%3D",
+      "name": "Ava Robinson",
+      "email": "ava.robinson@example.com",
+      "phone": "1-555-555-5564",
+      "website": "http://avarobinson.com"
+    }
+  ]
+  
