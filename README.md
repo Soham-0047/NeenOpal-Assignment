@@ -7,6 +7,12 @@
 - This app should be responsive (mobile, tablet and desktop) and will be tested on  Chrome browser.
 - Only CSS, no css framework/library allowed
 
+
+## Live Website
+https://neenopal.netlify.app
+
+
+
 ### Tech Stacks
 
 - ReactJs + vite(for performance and storage)
@@ -17,7 +23,7 @@
 
 
 ### Images
-![image](./public/result.png)
+![image](./client/public/result.png)
 
 ### Vieo Link
 
